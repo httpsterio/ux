@@ -23,4 +23,4 @@ Opit lisää tästä kaikesta tämän kurssin aikana. Tai sitten katsellaan vain
 Seuraavaksi opitaan [kahdesta erilaisesta UX-tavoitteista, jotka tulevat vaikuttamaan suunnitteluprosessiisi.][kurssi-kaksi]
 
 [ux-prosessi]: http://thehipperelement.com/post/51160057897/ux-is-a-science-not-an-art
-[kurssi-kaksi]: #
+[kurssi-kaksi]: 02-kayttajan-ja-bisneksen-tavoitteet.md
