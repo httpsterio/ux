@@ -1,0 +1,7 @@
+>Kun aloitat uuden UX-projektin - ennen kuin edes ehdit suunnittelemaan mitään - sinulla täytyy olla ymmärrys tavoitteistasi. Kahdesta tavoitteesta, oikeastaan. Mikäli haluat menestyä UX-suunnittelijana, näiden kahden tavoitteen ymmärtäminen on ensisijaisen tärketä.
+
+# Käyttäjän ja bisneksen tavoitteet
+
+## Käyttäjän tavoitteet
+
+Käyttäjät ovat ihmisiä ja ihmisillä on aina tarpeet. He haluavat jotakin.
